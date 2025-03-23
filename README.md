@@ -6,6 +6,8 @@
 This solution provides an automated code review system using LangGraph for workflow management and Groq's LLM for code analysis. The application features a Streamlit interface for easy interaction and presents reviews in a three-column layout.
 
 ## Architecture
+<img width="764" alt="image" src="https://github.com/user-attachments/assets/3be53de5-e307-4e53-ae77-902b646570fe" />
+
 
 ### Core Components
 1. **LangGraph Workflow Engine**
